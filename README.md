@@ -31,3 +31,34 @@ Optimize your Cloud Storage buckets with lifecycle management to reduce costs by
 Use Looker Studio to generate reports that highlight key metrics, such as driver performance, customer satisfaction trends, or operational efficiency.
 
 ## Architecture 
+
+![Project Architecture](architecture.jpg)
+
+## Technology Used
+1. Programming Language - Python
+2. Scripting - SQL
+3. GCP
+  - Big Query
+  - cloud storage
+  - looker studio
+  - compute intance
+4. Mage.AI(modern data pipeline tool)
+
+**Modern data pipeline tool: https://cloud.mage.ai/sign-up   
+
+**Contribute to this project:
+
+## Data set Used      
+**link:https://github.com/subhashrp-adpmn/uber-data-engineering-project/blob/main/uber_data.csv#:~:text=transform.py-,uber_data,-.csv
+
+**Original taxi data: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
+
+## Data Model
+![Data Model](data_model.jpeg)
+
+## Scripts for project 
+1. [extract.py](file name need to write)
+2. [load.py]
+3. [Transform.py]
+   
